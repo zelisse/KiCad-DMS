@@ -1,0 +1,9 @@
+(module Fiducial_1.5 (layer F.Cu) (tedit 57C03F28)
+  (fp_text reference H_1.5_0 (at 0 -1.651) (layer F.SilkS) hide
+    (effects (font (thickness 0.15)))
+  )
+  (fp_text value "" (at 0 0) (layer F.SilkS)
+    (effects (font (thickness 0.15)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu))
+)
